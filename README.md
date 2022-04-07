@@ -33,7 +33,7 @@
 ## :frowning_person: &nbsp;Social Links
 
 
-<a href="www.linkedin.com/in/beatriz-romão-ribeiro" target="_blank">
+<a href="www.linkedin.com/beatriz-romão-ribeiro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-biaromao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/romao_biah/" target="_blank">
