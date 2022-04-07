@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer 
 
-- 🔭 I’m currently working at [BanQi]
+- 🔭 I’m currently working at BanQi
 
 <br><br>
 
